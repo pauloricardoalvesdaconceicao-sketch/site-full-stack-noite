@@ -1,2 +1,6 @@
 "autor: matheus" 
+<<<<<<< HEAD
 "sou o gabriel" 
+=======
+"arquivo novo" 
+>>>>>>> ad528e3 (atualizar o arquivo)
