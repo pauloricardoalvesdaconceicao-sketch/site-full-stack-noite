@@ -17,6 +17,29 @@ header {
     text-align: center;
 }
 
+/* Menu */
+nav {
+    background-color: #004c99;
+    padding: 15px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ffd700;
+}
+
 main {
     max-width: 900px;
     margin: 30px auto;
@@ -27,6 +50,9 @@ main {
 
 section {
     margin-bottom: 20px;
+     padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
 }
 
 button {
