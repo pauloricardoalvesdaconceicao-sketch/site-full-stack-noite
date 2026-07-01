@@ -1,28 +1,36 @@
-"Site Full Stack - Noite" 
+# Site Full Stack - Noite
 
-Projeto desenvolvido para apredizagem de:
+Projeto desenvolvido para aprendizagem de:
 
--Git
--Github
--Trello
--Metodologias Ágeis
--HTML5
--CSS#
--JavaScript
+- Git
+- GitHub
+- Trello
+- Metodologias Ágeis
+- HTML5
+- CSS3
+- JavaScript
 
 ## Estrutura do Projeto
 
 - index.html
-- style/styles.css
-- script.js
+- styles/style.css
+- scripts/script.js
 - assets/
+
+## Funcionalidades
+
+- Menu de navegação
+- Seção Sobre
+- Seção Equipe
+- Seção Contato
+- Mensagem de boas-vindas
 
 ## Equipe
 
-- integrante 1
-- integrante 2
-- integrante 3
+- paulo ricardo 1
+- gabriel cardoso 2
+- alerrandro 3
 
-## Repertorio 
+## Repositório
 
-Projeto criado durante a disciplina de metodologias agéis.
+Projeto criado durante a disciplina de Metodologias Ágeis.
